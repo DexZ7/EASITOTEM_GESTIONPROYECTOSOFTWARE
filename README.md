@@ -74,7 +74,7 @@ Reducción de errores administrativos.
 
 - Gestión de los horarios de cada barbero.
 
-# Tecnologías (chinito pacas)
+# Tecnologías 
 Back end 
 Uso de setmore, ya que hace la validación de datos, verificaciones de disponibilidad , registros de citas
  
