@@ -74,14 +74,33 @@ Reducción de errores administrativos.
 
 - Gestión de los horarios de cada barbero.
 
-# Tecnologías 
-Frontend:
+# Tecnologías (chinito pacas)
+Back end 
+Uso de setmore, ya que hace la validación de datos, verificaciones de disponibilidad , registros de citas
+ 
+Front end 
+Css 
+Html5
+Java script
 
-Backend:
+Base de datos
+Setmore
 
-Base de datos:
+Google maps
+Se vincula en base al Iframe 
+"https://www.google.com/maps/embed?pb=TU_MAPA"
 
-Control de versiones mediante Git y GitHub
+Reseñas de Google
+"https://g.page/TU_NEGOCIO/review"
+
+Instagram 
+"https://instagram.com/TU_USUARIO"
+
+Whatssapp 
+"https://wa.me/TU_NUMERO" 
+
+Correo
+mailto:correo@ejemplo.com
 
 # Equipo de desarrollo
 
