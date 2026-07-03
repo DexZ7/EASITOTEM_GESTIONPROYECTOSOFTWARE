@@ -1,5 +1,18 @@
 # Integración con Setmore (SaaS)
 
+## Tecnologías utilizadas
+
+El proyecto está desarrollado utilizando tecnologías web básicas:
+
+- HTML5 (estructura de la aplicación)
+- CSS3 (diseño y estilos visuales)
+- JavaScript Vanilla (interactividad básica)
+
+No se utilizan frameworks modernos como React, ya que el sistema está diseñado como una aplicación ligera y directa.
+
+Para la gestión de datos y reservas, se utiliza Setmore como servicio SaaS externo, evitando la implementación de una base de datos tradicional.
+
+Esto permite una rápida implementación, bajo mantenimiento y escalabilidad basada en servicios externos.
 ## Descripción
 
 En este proyecto se utiliza Setmore como solución SaaS (Software as a Service) para la gestión de citas y almacenamiento de datos de clientes. En lugar de implementar una base de datos convencional, se optó por externalizar esta funcionalidad a un servicio en la nube.
