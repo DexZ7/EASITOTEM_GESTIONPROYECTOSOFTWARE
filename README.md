@@ -86,21 +86,24 @@ Java script
 Base de datos
 Setmore
 
+Dardo
+"https://app.dardo.ai/getpass/1067862?utm_source=qr&utm_medium=social&utm_content=link_in_bio"
+
 Google maps
 Se vincula en base al Iframe 
-"https://www.google.com/maps/embed?pb=TU_MAPA"
+"https://maps.app.goo.gl/85QQiTgg4JYgCRmG7"
 
 Reseñas de Google
-"https://g.page/TU_NEGOCIO/review"
+"https://maps.app.goo.gl/85QQiTgg4JYgCRmG7"
 
 Instagram 
-"https://instagram.com/TU_USUARIO"
+"https://www.instagram.com/totem_barber.studio"
 
 Whatssapp 
-"https://wa.me/TU_NUMERO" 
+"https://wa.me/529902065981 text=Hola%20T%C3%93TEM%20Barber%20Studio%2C%20quisiera%20informaci%C3%B3n%20sobre%20sus%20servicios%20%F0%9F%94%A5" 
 
 Correo
-mailto:correo@ejemplo.com
+"mailto:totembarberstudio@gmail.com"
 
 # Equipo de desarrollo
 
