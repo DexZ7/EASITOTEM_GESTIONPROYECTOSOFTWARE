@@ -1,12 +1,11 @@
 # EASITOTEM
 ¿Quiénes somos?
-SUMMERDEVS
 
 SUMMERDEVS es un equipo de desarrollo de software comprometido con la creación de soluciones tecnológicas que optimizan procesos y mejoran la experiencia de los usuarios. Nuestro enfoque se basa en desarrollar aplicaciones funcionales, intuitivas y de calidad, aplicando buenas prácticas de ingeniería de software y trabajo colaborativo.
 
-EASITOTEM
 
-Descripción del proyecto
+
+# Descripción del proyecto
 
 EASITOTEM es un proyecto de desarrollo web diseñado para la barbería TOTEM, cuyo propósito es digitalizar y optimizar el proceso de gestión de citas.
 
@@ -14,11 +13,11 @@ La plataforma permitirá que los clientes puedan agendar una cita de forma rápi
 
 El pago de los servicios continuará realizándose de manera presencial en la barbería, por lo que la plataforma estará enfocada exclusivamente en la administración y organización de las citas.
 
-Objetivo
+# Objetivo
 
 Desarrollar una aplicación web que permita administrar eficientemente las citas de la barbería TOTEM, mejorando la organización del negocio y ofreciendo una mejor experiencia tanto para los clientes como para los barberos.
 
-Problemática
+# Problemática
 
 Actualmente, la gestión de citas se realiza mediante mensajes o llamadas, lo que puede provocar:
 
@@ -38,7 +37,7 @@ Evitar conflictos entre horarios.
 Organizar automáticamente la agenda de trabajo.
 Facilitar la administración del negocio.
 
-Beneficios
+# Beneficios
 
 Para los clientes
 
@@ -57,33 +56,48 @@ Mayor productividad de los barberos.
 Mejor atención al cliente.
 Reducción de errores administrativos.
 
-Funcionalidades principales
+# Funcionalidades principales
 
-Registro de citas como invitado.
-Selección del servicio.
-Selección del barbero.
-Consulta de horarios disponibles.
-Administración de la agenda.
-Confirmación de la cita.
-Panel de administración para gestionar citas.
-Gestión de los horarios de cada barbero.
+- Registro de citas como invitado.
 
-Tecnologías (por definir)
-Frontend
-Backend
-Base de datos
+- Selección del servicio.
+
+- Selección del barbero.
+
+- Consulta de horarios disponibles.
+
+- Administración de la agenda.
+
+- Confirmación de la cita.
+
+- Panel de administración para gestionar citas.
+
+- Gestión de los horarios de cada barbero.
+
+# Tecnologías 
+Frontend:
+
+Backend:
+
+Base de datos:
+
 Control de versiones mediante Git y GitHub
 
-Equipo de desarrollo
+# Equipo de desarrollo
 
-SUMMERDEVS
+ SUMMERDEVS
 
 Proyecto académico desarrollado como parte de la asignatura de Ingeniería de Software, enfocado en la aplicación de metodologías de desarrollo, análisis de requerimientos y construcción de una solución tecnológica para una problemática real.
 
-LIDER DE PROYECTO- Ray Osvaldo Pérez Moo
-LIDER TECNICO- Gael Alessandro Basto Chi
+Lider de Proyecto - Ray Osvaldo Pérez Moo
+
+Lider Tecnico- Gael Alessandro Basto Chi
+
 Desarrollador- Carlos Joel Sanchez Puc
+
 Desarrollador- Aaron Escalante Ramirez
-Aseguramiento de calidad- Miguel Gutiérrez Panigua
-Aseguramiento de calidad- Jordan Avila Alcocer
+
+QA - Miguel Andrés Gutiérrez Panigua
+
+QA - Jordan Avila Alcocer
 
